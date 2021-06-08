@@ -1,0 +1,72 @@
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\bin\Debug\net5.0\c sharp inal project.exe
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\bin\Debug\net5.0\c sharp inal project.deps.json
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\bin\Debug\net5.0\c sharp inal project.runtimeconfig.json
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\bin\Debug\net5.0\c sharp inal project.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\bin\Debug\net5.0\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\bin\Debug\net5.0\ref\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\bin\Debug\net5.0\c sharp inal project.pdb
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\obj\Debug\net5.0\c sharp inal project.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\obj\Debug\net5.0\c sharp inal project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\obj\Debug\net5.0\c sharp inal project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\obj\Debug\net5.0\c sharp inal project.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\obj\Debug\net5.0\c sharp inal project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\obj\Debug\net5.0\c sharp inal project.csproj.CopyComplete
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\obj\Debug\net5.0\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\obj\Debug\net5.0\ref\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\obj\Debug\net5.0\c sharp inal project.pdb
+C:\Users\ASUS\Desktop\c sharp final project\c sharp inal project\obj\Debug\net5.0\c sharp inal project.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\ref\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.pdb
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.exe
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.deps.json
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.runtimeconfig.json
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\ref\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.pdb
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.csproj.CopyComplete
+C:\Users\ASUS\Desktop\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.exe
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.deps.json
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.runtimeconfig.json
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\ref\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.pdb
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.csproj.CopyComplete
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\ref\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.pdb
+C:\Users\ASUS\Desktop\c-final-Ismat227\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.exe
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.deps.json
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.runtimeconfig.json
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\ref\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\c sharp inal project.pdb
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.csproj.CopyComplete
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\ref\c sharp inal project.dll
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.pdb
+C:\Users\ASUS\Desktop\c-final-Ismat227-main\c sharp final project - Köçür\c sharp inal project\obj\Debug\net5.0\c sharp inal project.genruntimeconfig.cache
